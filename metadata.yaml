@@ -1,0 +1,5 @@
+homepage: "https://metric.al/"
+documentation: "https://github.com/metric-al/gtm_metrical_library"
+versions:
+  - sha: a07419723087e50eb8d5ae64b5311305501081c5
+    changeNotes: Initial release.
